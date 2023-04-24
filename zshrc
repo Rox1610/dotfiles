@@ -70,3 +70,12 @@ export EDITOR=code
 
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
+alias python=/usr/bin/python3
+alias python=/usr/bin/python3
+
+# Setting for Python 3.6.8
+PATH="/Library/Frameworks/Python.framework/Versions/3.6/bin:${PATH}"
+export PATH
+
+alias python=python3
+alias pip=pip3
